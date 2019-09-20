@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title></title>
+		<title>董亚辉的个人主页</title>
 	</head>
 	<body>
 		<p>个人信息</p>
